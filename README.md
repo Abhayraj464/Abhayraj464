@@ -1,3 +1,4 @@
+![logo](https://github.com/Abhayraj464/git-banner/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Abhayraj C R</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
